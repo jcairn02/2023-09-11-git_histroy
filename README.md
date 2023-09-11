@@ -9,3 +9,8 @@
 	- `log`	-- oneline shows the log in condesnced format
 	- this may open a terminal program called 'less' that lets you scroll.
 	- use `q` to quit out of less
+-`diff` shows you the difference between your changes 
+
+ diff --staged shows you the diff of the files in the staging area
+
+- restore -- staged <file> : unstages <file> from the staging area
