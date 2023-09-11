@@ -14,3 +14,6 @@
  diff --staged shows you the diff of the files in the staging area
 
 - restore -- staged <file> : unstages <file> from the staging area
+
+Here;s a change I dont really mean to happen. or is a mistake
+or something
