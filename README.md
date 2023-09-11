@@ -17,3 +17,5 @@
 
 Here;s a change I dont really mean to happen. or is a mistake
 or something
+
+revert : undos the changes in the commit specified in SHA1
